@@ -1,0 +1,2 @@
+FROM nginx:1.27
+COPY fashion/ /usr/share/nginx/html/fashion/
